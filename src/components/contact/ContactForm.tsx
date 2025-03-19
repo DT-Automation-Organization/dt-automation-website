@@ -1,7 +1,6 @@
 import React from 'react';
 import { useForm } from '../../hooks/useForm';
 import { Button } from '../common';
-import * as yup from 'yup';
 interface ContactFormValues {
     name: string;
     email: string;
