@@ -2,7 +2,7 @@
     "name": "dt-automation-website",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://dt-automation-website.github.io/",
+    "homepage": "https://dt-automation-organization.github.io/",
     "dependencies": {
         "@heroicons/react": "^2.0.18",
         "@types/node": "^16.18.39",
